@@ -1,2 +1,2 @@
 # iris_dataset
-Initial work on opular Iris dataset 
+Initial work on popular Iris dataset 
